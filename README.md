@@ -4,10 +4,6 @@
 
 ## code repos
 - [solana-twitter-frontend](https://github.com/numoonchld/solana-twitter-frontend)
-
-![solana twitter: frontend](https://user-images.githubusercontent.com/17)
-
-
 - [solana-twitter-backend](https://github.com/numoonchld/solana-twitter-backend)
 
 ## references
